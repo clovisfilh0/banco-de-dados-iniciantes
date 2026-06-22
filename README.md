@@ -1,4 +1,4 @@
-#🗄️ banco-de-dados-iniciantes
+# 💾 banco-de-dados-iniciantes
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue" alt="Status">
